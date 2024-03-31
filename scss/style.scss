@@ -1180,6 +1180,9 @@ textarea.form-control {
 	opacity: 0;
 	visibility: hidden;
 }
+.ftco-animate:hover{
+	transform: scale(1.10);
+}
 
 .bg-primary {
 	background: $primary!important;
